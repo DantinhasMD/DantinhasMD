@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de CC e ADS<br>Pretendo me tornar FullStack <br>Ainda sou nível básico <br>
+Sou estudante de CC e ADS<br>Pretendo me tornar FullStack <br>Ainda sou nível básico - Focada em Aprender Python e Java<br>
 
 
 ## 🌐 Socials:
