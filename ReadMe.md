@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de CC e ADS<br>Pretendo me tornar FullStack <br>Ainda sou nível básico - Focada em Aprender Python e Java<br>
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas <br> Gostaria de seguir carreira como Gestora de Projetos <br> Nível iniciante: Aprendendo Python e Java<br>
 
 
 ## 🌐 Socials:
