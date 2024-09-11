@@ -1,6 +1,5 @@
-# 💫 About Me:
+# Hello World! Sejam Bem-Vindos! Mw chamo Eduarda Dantas
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas <br> Gostaria de seguir carreira como Gestora de Projetos <br> Nível iniciante: Aprendendo Python e Java<br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mariadantas.__) 
