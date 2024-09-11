@@ -1,5 +1,10 @@
 # Hello World! Sejam Bem-Vindos! Me chamo Eduarda Dantas
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas <br> Gostaria de seguir carreira como Gestora de Projetos <br> Nível iniciante: Aprendendo Python e Java<br>
+Sou estudante de Análise e Desenvolvimento de Sistemas. E sim, eu preciso deixar esse perfil mais bonito :)
+<ul>
+  <li>Desenvolvendo aplicações Web com HTML, CSS E JAVASCRIPT</li>
+  <li>Flertando com Banco de Dados e desenvolvendo alguns projetos no sqllite</li>
+  <li>Estudando UX/UI por interesse próprio</li>
+</ul>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mariadantas.__) 
@@ -11,13 +16,6 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas <br> Gostaria 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DantinhasMD&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
 [![](https://visitcount.itsvg.in/api?id=DantinhasMD&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
