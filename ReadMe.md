@@ -1,4 +1,4 @@
-# Hello World! Sejam Bem-Vindos! Mw chamo Eduarda Dantas
+# Hello World! Sejam Bem-Vindos! Me chamo Eduarda Dantas
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas <br> Gostaria de seguir carreira como Gestora de Projetos <br> Nível iniciante: Aprendendo Python e Java<br>
 
 ## 🌐 Socials:
