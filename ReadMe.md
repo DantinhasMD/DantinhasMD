@@ -51,7 +51,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mariadantas.__)
 
-[![Tiktok](https://img.shields.io/badge/Tiktok-blue?style=flat-square&logo=Tiktok&logoColor=white&link={Link})]({Link})
+[![Tiktok](https://img.shields.io/badge/Tiktok-%23E4405F.svg?logo=Tiktok&logoColor=white&link={https://www.tiktok.com/@mariacoding?_t=8qXpipWutuv&_r=1})]({https://www.tiktok.com/@mariacoding?_t=8qXpipWutuv&_r=1})
 
 ![DantinhasMD GitHub stats](https://github-readme-stats.vercel.app/api?username=DantinhasMD\&rank_icon=percentile)
 
