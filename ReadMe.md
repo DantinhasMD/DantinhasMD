@@ -21,13 +21,13 @@
 
 -  Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=javascript,python)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=javascript,sql,python)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
     [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 - Dados: 
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,sql,mongo)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,sqllite)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
     [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
@@ -49,25 +49,14 @@
 
 ## Vamos Conectar!
 
-[![Instagram](https://img.shields.io/badge/-{Nome}-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})]({Link})
-[![Facebook](https://img.shields.io/badge/-{Nome}-blue?style=flat-square&logo=Facebook&logoColor=white&link={Link})]({Link})
-[![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link})
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mariadantas.__)
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DantinhasMD\&rank_icon=percentile)
+[![Tiktok](https://img.shields.io/badge/Tiktok-blue?style=flat-square&logo=Tiktok&logoColor=white&link={Link})]({Link})
 
-Sou estudante de Análise e Desenvolvimento de Sistemas. E sim, eu preciso deixar esse perfil mais bonito :)
+![DantinhasMD GitHub stats](https://github-readme-stats.vercel.app/api?username=DantinhasMD\&rank_icon=percentile)
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mariadantas.__) 
+ 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DantinhasMD&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DantinhasMD&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DantinhasMD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DantinhasMD&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-[![](https://visitcount.itsvg.in/api?id=DantinhasMD&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
