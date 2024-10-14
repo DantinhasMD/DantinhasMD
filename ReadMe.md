@@ -27,7 +27,7 @@
     [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 - Dados: 
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,SQLite)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
     [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,figma)](https://skillicons.dev)
@@ -39,7 +39,7 @@
 
 🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
 
-1. [Projeto 1]([https://github.com/[seu-usuario]/projeto1](https://github.com/DantinhasMD/40_Desafios)): Grupo de Projetos Web para entender melhor o mundo do Design e Programação.
+1. .[Projeto 1].(https://github.com/DantinhasMD/40_Desafios): Grupo de Projetos Web para entender melhor o mundo do Design e Programação.
 2. [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma aventura fascinante com código e arte.
 3. [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma experiência interativa que desafia as leis da física.
 
