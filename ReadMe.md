@@ -27,7 +27,7 @@
     [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 - Dados: 
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,sqllite)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,SQLlite)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
     [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,figma)](https://skillicons.dev)
