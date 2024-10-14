@@ -1,8 +1,8 @@
-# Hello World! 🚀 Sejam Bem-Vindos! Me chamo Eduarda Dantas.
-
 <div align="center">
   <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
 </div>
+
+# Hello World! 🚀 Me chamo Eduarda Dantas.
 
 ## Sobre mim
 
@@ -10,6 +10,7 @@
 
 <ul>
   <li>Desenvolvendo aplicações Web com HTML, CSS E JAVASCRIPT</li>
+  <li>Alguns projetos com JavaScript como backend</li>
   <li>Flertando com Banco de Dados e desenvolvendo alguns projetos no sqllite</li>
   <li>Estudando UX/UI por interesse próprio</li>
 </ul>
