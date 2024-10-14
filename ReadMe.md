@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
+  <img src="[https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif](https://images.app.goo.gl/1BGv6FCFVGBHEtbS9)" alt="Software Developer">
 </div>
 
 # Hello World! 🚀 Me chamo Eduarda Dantas.
@@ -21,19 +21,19 @@
 
 -  Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=javascript,python)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 - Dados: 
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,sql,mongo)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
 - Desenvolvimento Web:
 
-    [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=javascript,html,css)](https://skillicons.dev)
   
 ## Projetos Criativos
 
