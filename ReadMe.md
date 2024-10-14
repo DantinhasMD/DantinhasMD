@@ -21,7 +21,7 @@
 
 -  Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=javascript,sql,python)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=javascript,python)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
     [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
@@ -30,7 +30,7 @@
     [![My Skills](https://skillicons.dev/icons?i=mysql,sqllite)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,figma)](https://skillicons.dev)
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=javascript,html,css)](https://skillicons.dev)
