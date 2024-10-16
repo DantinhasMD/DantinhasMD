@@ -40,7 +40,7 @@
 🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
 
 1. [Projeto 1](https://github.com/DantinhasMD/40_Desafios): Grupo de Projetos Web para entender melhor o mundo do Design e Programação.
-2. [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma aventura fascinante com código e arte.
+2. [Projeto 2](https://github.com/DantinhasMD/Projetos-em-JavaScript.git): Desafios e exercícios que me ajudaram no desenvolvimento das minhas habilidades com JavaScript
 3. [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma experiência interativa que desafia as leis da física.
 
 ## Vamos Criar Algo Incrível! 💫
