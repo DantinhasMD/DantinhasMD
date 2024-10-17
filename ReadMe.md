@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif](https://images.app.goo.gl/1BGv6FCFVGBHEtbS9)" alt="Software Developer">
+  <img src="![Card DIO CE 01](https://github.com/user-attachments/assets/c0aa9294-9d5b-4ea6-9f28-d7ba1385600f)">
 </div>
 
 # Hello World! 🚀 Me chamo Eduarda Dantas.
