@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="(https://github.com/user-attachments/assets/c0aa9294-9d5b-4ea6-9f28-d7ba1385600f)">
+  <img src="https://github.com/user-attachments/assets/c0aa9294-9d5b-4ea6-9f28-d7ba1385600f">
 </div>
 
 # Hello World! 🚀 Me chamo Eduarda Dantas.
