@@ -11,7 +11,6 @@
 <ul>
   <li>Desenvolvendo aplicações Web com HTML, CSS E JAVASCRIPT</li>
   <li>Alguns projetos com JavaScript</li>
-  <li>Sites e Projetos Web como projetos Freelaces</li>
   <li>Estudando SQL e python</li>
 </ul>
 
