@@ -6,13 +6,13 @@
 
 ## Sobre mim
 
-✨ Sou uma <i>(Estudante de Análise e Desenvolvimento de Sistemas)</i> Desenvolvedora apaixonada por criar, desenvolver e aprender soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, mesclando códigos bem estruturados à soluções criativas. No futuro, gostaria de desenvolver sites/aplicações para auxiliar as pessoas em seus desafios✨
+✨ Sou uma <i>(Estudante de Análise e Desenvolvimento de Sistemas)</i> Desenvolvedora apaixonada por criar, desenvolver e aprender soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, mesclando códigos bem estruturados à soluções criativas.✨
 
 <ul>
   <li>Desenvolvendo aplicações Web com HTML, CSS E JAVASCRIPT</li>
-  <li>Alguns projetos com JavaScript como backend</li>
-  <li>Flertando com Banco de Dados e desenvolvendo alguns projetos no sqllite</li>
-  <li>Estudando UX/UI por interesse próprio</li>
+  <li>Alguns projetos com JavaScript</li>
+  <li>Sites e Projetos Web como projetos Freelaces</li>
+  <li>Estudando SQL e python</li>
 </ul>
 
 ## Habilidades Tecnológicas
