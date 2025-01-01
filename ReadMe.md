@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-✨ Sou uma <i>(Estudante de Análise e Desenvolvimento de Sistemas)</i> Desenvolvedora apaixonada por criar, desenvolver e aprender soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, mesclando códigos bem estruturados à soluções criativas. Estudando pata uma carreira como Engenheira de Dados, especializada em Automação de Processos Digitais.✨
+✨ Sou uma <i>(Estudante de Análise e Desenvolvimento de Sistemas)</i> Desenvolvedora apaixonada por criar, desenvolver e aprender soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, mesclando códigos bem estruturados à soluções criativas. Estudando para uma carreira como Engenheira de Dados, especializada em Automação de Processos Digitais.✨
 
 <ul>
   <li>Desenvolvendo aplicações Web com HTML, CSS E JAVASCRIPT</li>
