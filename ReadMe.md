@@ -47,7 +47,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mariadantas.__)
 
 [![Tiktok](https://img.shields.io/badge/Tiktok-%23E4405F.svg?logo=Tiktok&logoColor=white)](https://www.tiktok.com/@mariacoding?_t=8qaySyHTnEs&_r=1)
-[![LinkedIn](![image](https://github.com/user-attachments/assets/326ab0b0-187e-4bf1-86d0-fcef69c8238e))](https://www.linkedin.com/in/eduarda-dantas-6834012a9/)
+
+[![LinkedIn](https://github.com/user-attachments/assets/326ab0b0-187e-4bf1-86d0-fcef69c8238e)](https://www.linkedin.com/in/eduarda-dantas-6834012a9/)
 
 ![DantinhasMD GitHub stats](https://github-readme-stats.vercel.app/api?username=DantinhasMD\&rank_icon=percentile)
 
