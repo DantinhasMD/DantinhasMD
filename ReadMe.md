@@ -1,17 +1,13 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/c0aa9294-9d5b-4ea6-9f28-d7ba1385600f">
-</div>
-
 # Hello World! 🚀 Me chamo Eduarda Dantas.
 
 ## Sobre mim
 
-✨ Sou uma <i>(Estudante de Análise e Desenvolvimento de Sistemas)</i> Desenvolvedora apaixonada por criar, desenvolver e aprender soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, mesclando códigos bem estruturados à soluções criativas. Estudando para uma carreira como Engenheira de Dados, especializada em Automação de Processos Digitais.✨
+✨ Sou uma <i>(Estudante de Análise e Desenvolvimento de Sistemas)</i> Desenvolvedora apaixonada por criar, desenvolver e aprender soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, mesclando códigos bem estruturados à soluções criativas. Estudando para uma carreira em Dados, especializada em Automação de Processos Digitais.✨
 
 <ul>
-  <li>Desenvolvendo aplicações Web com HTML, CSS E JAVASCRIPT</li>
-  <li>Alguns projetos com JavaScript</li>
-  <li>Estudando SQL e python</li>
+  <li>Foco em Nuvem, Dados e Automação</li>
+  <li>Conhecimento satisfátorio em Front-end e JavaScriptt</li>
+  <li>Busco aprofundamento em SQL e Python</li>
 </ul>
 
 ## Habilidades Tecnológicas
@@ -51,6 +47,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mariadantas.__)
 
 [![Tiktok](https://img.shields.io/badge/Tiktok-%23E4405F.svg?logo=Tiktok&logoColor=white)](https://www.tiktok.com/@mariacoding?_t=8qaySyHTnEs&_r=1)
+[![LinkedIn](![image](https://github.com/user-attachments/assets/326ab0b0-187e-4bf1-86d0-fcef69c8238e))](https://www.linkedin.com/in/eduarda-dantas-6834012a9/)
 
 ![DantinhasMD GitHub stats](https://github-readme-stats.vercel.app/api?username=DantinhasMD\&rank_icon=percentile)
 
