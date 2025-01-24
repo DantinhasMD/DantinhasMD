@@ -1,4 +1,4 @@
-# Hello World! 🚀 Me chamo Eduarda Dantas.
+# Hello World! 🚀 Me chamo Maria Eduarda Dantas.
 
 ## Sobre mim
 
