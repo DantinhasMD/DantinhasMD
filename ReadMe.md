@@ -34,9 +34,8 @@
 
 🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
 
-1. [Projeto 1](https://github.com/DantinhasMD/40_Desafios): Grupo de Projetos Web para entender melhor o mundo do Design e Programação.
-2. [Projeto 2](https://github.com/DantinhasMD/Projetos-em-JavaScript.git): Desafios e exercícios que me ajudaram no desenvolvimento das minhas habilidades com JavaScript
-
+1. [Projeto 1](https://github.com/DantinhasMD/Projetos-em-JavaScript.git): Conheça um pouco das minhas habilidades com JavaScript e Projetos Web. 
+2. [Projeto 2](https://github.com/DantinhasMD/Bootcamp_Analise-de-DadosDIO.git): Demonstração das minhas habilidades relacionados a SQL e Dados
 
 ## Vamos Criar Algo Incrível! 💫
 
@@ -47,8 +46,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mariadantas.__)
 
 [![Tiktok](https://img.shields.io/badge/Tiktok-%23E4405F.svg?logo=Tiktok&logoColor=white)](https://www.tiktok.com/@mariacoding?_t=8qaySyHTnEs&_r=1)
-
-[![LinkedIn](https://github.com/user-attachments/assets/326ab0b0-187e-4bf1-86d0-fcef69c8238e)](https://www.linkedin.com/in/eduarda-dantas-6834012a9/)
 
 ![DantinhasMD GitHub stats](https://github-readme-stats.vercel.app/api?username=DantinhasMD\&rank_icon=percentile)
 
