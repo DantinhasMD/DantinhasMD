@@ -2,13 +2,8 @@
 
 ## Sobre mim
 
-✨ Sou uma <i>(Estudante de Análise e Desenvolvimento de Sistemas)</i> Desenvolvedora apaixonada por criar, desenvolver e aprender soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, mesclando códigos bem estruturados à soluções criativas. Estudando para uma carreira em Dados, especializada em Automação de Processos Digitais.✨
+✨ Sou uma <i>(Estudante de Análise e Desenvolvimento de Sistemas)</i> Desenvolvedora apaixonada por criar, desenvolver e aprender soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, mesclando códigos bem estruturados à soluções criativas. Estudando para uma carreira em Engenharia de Software, especializada em Automação de Processos Digitais.✨
 
-<ul>
-  <li>Foco em Nuvem, Dados e Automação</li>
-  <li>Conhecimento satisfátorio em Front-end e JavaScriptt</li>
-  <li>Busco aprofundamento em SQL e Python</li>
-</ul>
 
 ## Habilidades Tecnológicas
 
@@ -16,13 +11,13 @@
 
 -  Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=javascript,python)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,figma)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,figma,intellij)](https://skillicons.dev)
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=javascript,html,css)](https://skillicons.dev)
