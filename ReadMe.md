@@ -1,27 +1,25 @@
-# Hello World! 🚀 Me chamo Maria Eduarda Dantas.
+# Hello Wooooooorld! 🚀 Me chamo Maria Eduarda Dantas.
 
-## Sobre mim
+## 😎 Sobre mim
 
-✨ Sou uma <i>(Estudante de Análise e Desenvolvimento de Sistemas)</i> Desenvolvedora apaixonada por criar, desenvolver e aprender soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, mesclando códigos bem estruturados à soluções criativas. Estudando para uma carreira em Engenharia de Software, especializada em Automação de Processos Digitais.✨
+Estudante de Engenharia de Software com foco em desenvolvimento Backend com Java e Spring Boot, e interesse em práticas modernas de Engenharia DevOps.
+Busco construir sistemas escaláveis, rastreáveis e automatizados, que substituam processos manuais por pipelines confiáveis e inteligentes.
 
+Gosto de unir pensamento analítico e visão de produto para criar soluções que realmente gerem impacto.
 
-## Habilidades Tecnológicas
+## ⚙️ Tecnologias e Ferramentas que estudo
 
-💻 Aqui estão algumas das tecnologias que eu domino:
+- Linguagens: Java, SQL
+- Frameworks: Spring Boot, JUnit
+- Banco de Dados: PostgreSQL
+- DevOps: Docker, CI/CD, pipelines, testes de performance e carga
+- Versionamento: Git, GitHub, GitLab
+- Outros: automação de processos, APIs REST, consultoria técnica
 
--  Linguagens de Programação: 
+## 🚀 Objetivo de Carreira
 
-    [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
-- Dados: 
+Atuar como Engenheira de Software Backend, evoluindo para posições de Engenharia DevOps e futuramente trabalhar de forma autônoma, desenvolvendo soluções sob demanda e prestando consultoria técnica para empresas.
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
-- Ferramentas e Tecnologias: 
-
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,figma,intellij)](https://skillicons.dev)
-- Desenvolvimento Web:
-
-    [![My Skills](https://skillicons.dev/icons?i=javascript,html,css)](https://skillicons.dev)
-  
 ## Projetos Criativos
 
 🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
