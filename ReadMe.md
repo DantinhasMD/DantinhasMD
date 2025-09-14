@@ -26,6 +26,7 @@ Atuar como Engenheira de Software Backend, evoluindo para posições de Engenhar
 
 1. [Projeto 1](https://github.com/DantinhasMD/Projetos-em-JavaScript.git): Conheça um pouco das minhas habilidades com JavaScript e Projetos Web. 
 2. [Projeto 2](https://github.com/DantinhasMD/Bootcamp_Analise-de-DadosDIO.git): Demonstração das minhas habilidades relacionados a SQL e Dados
+3. [Projeto 3](https://github.com/DantinhasMD/ExerciciosJava.git): Demonstração dos meus estudos em Java
 
 ## Vamos Criar Algo Incrível! 💫
 
