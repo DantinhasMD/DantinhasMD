@@ -31,7 +31,7 @@ Atuar como **Engenheira de Software Backend**, evoluindo para posições em **En
 
 Aqui estão alguns dos meus projetos mais criativos e inovadores:
 
-1. [Projetos em JavaScript](https://github.com/DantinhasMD/Projetos-em-JavaScript.git) – Demonstra minhas habilidades para projetos web**.  
+1. [Projeto Zanza](https://github.com/DantinhasMD/Projeto_Zanza.git) – Demonstra minhas **habilidades em Java** e Gerenciamento de projetos.  
 2. [Bootcamp Análise de Dados DIO](https://github.com/DantinhasMD/Bootcamp_Analise-de-DadosDIO.git) – Projetos relacionados a **SQL e análise de dados**.  
 3. [Exercícios em Java](https://github.com/DantinhasMD/ExerciciosJava.git) – Registro dos meus **estudos em Java e backend**.
 
